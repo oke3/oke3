@@ -21,12 +21,16 @@ I design context engines, agent tooling, and cost-optimized pipelines — the in
 ## What I Build
 
 ### 🧠 AI Infrastructure
-Context engines, RAG pipelines, model routing, agent memory systems
-→ [gz-context-engine](https://github.com/oke3/gz-context-engine) · [gz-gateway](https://github.com/oke3/gz-gateway) · [gz-modelrouter](https://github.com/oke3/gz-modelrouter) · [gz-sessions](https://github.com/oke3/gz-sessions)
+Context engines, agent runtimes, RAG pipelines, model routing, AI gateways, guardrails
+→ [gz-context-engine](https://github.com/oke3/gz-context-engine) · [gz-gateway](https://github.com/oke3/gz-gateway) · [gz-agent](https://github.com/oke3/gz-agent) · [gz-modelrouter](https://github.com/oke3/gz-modelrouter)
 
 ### 🔧 Developer Tools
-Codebase scanners, benchmark harnesses, credential management
-→ [gz-codemap](https://github.com/oke3/gz-codemap) · [gz-bench](https://github.com/oke3/gz-bench) · [gz-authmesh](https://github.com/oke3/gz-authmesh)
+Codebase scanners, evaluation frameworks, benchmark harnesses, credential management
+→ [gz-codemap](https://github.com/oke3/gz-codemap) · [gz-eval](https://github.com/oke3/gz-eval) · [gz-bench](https://github.com/oke3/gz-bench) · [gz-authmesh](https://github.com/oke3/gz-authmesh)
+
+### 🛡️ Security & Safety
+Credential management, AI guardrails, input/output filtering
+→ [gz-authmesh](https://github.com/oke3/gz-authmesh) · [gz-guardrails](https://github.com/oke3/gz-guardrails)
 
 ### 📊 Analytics & Ops
 Usage analytics, session recall, remote agent orchestration
@@ -51,7 +55,7 @@ Cloudflare Workers · AI/ML
 ## By the Numbers
 
 ```
- 17  open-source projects
+ 22  open-source projects
  8,600+  lines in the flagship project alone
   7-layer  architecture (ingest → embed → store → retrieve → generate → eval → serve)
   Zero  vendor lock-in on any project
