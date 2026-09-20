@@ -22,7 +22,7 @@ I design context engines, agent tooling, and cost-optimized pipelines — the in
 
 ### 🧠 AI Infrastructure
 Context engines, RAG pipelines, model routing, agent memory systems
-→ [gz-context-engine](https://github.com/oke3/gz-context-engine) · [gz-modelrouter](https://github.com/oke3/gz-modelrouter) · [gz-sessions](https://github.com/oke3/gz-sessions)
+→ [gz-context-engine](https://github.com/oke3/gz-context-engine) · [gz-gateway](https://github.com/oke3/gz-gateway) · [gz-modelrouter](https://github.com/oke3/gz-modelrouter) · [gz-sessions](https://github.com/oke3/gz-sessions)
 
 ### 🔧 Developer Tools
 Codebase scanners, benchmark harnesses, credential management
